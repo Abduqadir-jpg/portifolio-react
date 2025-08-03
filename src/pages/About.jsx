@@ -15,7 +15,7 @@ const About = () => {
               />
             </div>
             <div className="md:w-2/3 md:pl-12">
-              <h2 className="text-2xl font-semibold text-gray-800 mb-4">John Doe</h2>
+              <h2 className="text-2xl font-semibold text-gray-800 mb-4">Apdukhadir Moha</h2>
               <h3 className="text-xl text-blue-600 mb-4">Front-End Developer</h3>
               <p className="text-gray-600 mb-4">
                 I'm passionate about creating intuitive and visually appealing user interfaces that provide great user experiences.
